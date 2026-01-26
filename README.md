@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Shahadat Hassan (Siyam) | @pikachufrombd
+# 👋 Hey, I'm Shahadat Hassan | @pikachufrombd
 
 Welcome to my GitHub profile! I'm **Shahadat Hassan**, a passionate **Developer**, **Telegram Bot Maker**, and all-around tech enthusiast from Bangladesh 🇧🇩.
 
