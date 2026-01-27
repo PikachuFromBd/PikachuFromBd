@@ -24,7 +24,7 @@ Check out my work and contributions right here on GitHub!
 ## 🌐 Explore My Work
 You can also visit my personal website where I showcase some of my projects:
 
-**[pikachubot.xyz](https://pikachubot.xyz)**
+**[shahadathassan.dev](https://shahadatahassan.dev)**
 
 ---
 
